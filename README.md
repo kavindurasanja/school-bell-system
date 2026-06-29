@@ -36,14 +36,4 @@ For pricing, demo, and license purchase, contact:
 
 Email: [rasanjakavindu54@gmail.com](mailto:rasanjakavindu54@gmail.com)
 
-GitHub: https://github.com/kavindurasanja
-
-## 🔒 Source Code
-
-The source code is private and not included in this repository.
-
-## 📄 License
-
-All rights reserved.
-
-Unauthorized copying, redistribution, resale, or modification of this software is prohibited.
+Whatsapp: +94722033511
