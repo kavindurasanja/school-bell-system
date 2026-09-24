@@ -1,39 +1,58 @@
+<div align="center">
+
 # 🔔 School Bell System
 
-Professional automated school bell software for schools, institutes, and tuition classes.
+### Automated bell-management software for schools and institutes
 
-## ⚠️ Commercial Software Notice
+A practical Windows-oriented solution for running daily school bell schedules automatically while keeping manual control available when needed.
 
-This software is commercial. The source code is not publicly available. Contact me to purchase a licensed copy.
+</div>
 
-## ✨ Features
+---
 
-* Automated bell timetable system
-* Custom period schedule setup
-* Multiple bell sounds
-* Easy-to-use desktop interface
-* Suitable for schools and institutes
-* Offline usage support
-* Windows desktop support
+## Product Overview
 
-## 📸 Screenshots
+The School Bell System is designed to reduce the need for manually operating bells throughout the school day. Administrators can run a predefined timetable, trigger sounds manually, and use the system offline on a local computer.
 
-Add screenshots inside the `screenshots` folder.
+This repository is a **product showcase and documentation repository**. The commercial source code is not published here.
 
-## 🎥 Demo
+## Key Features
 
-Add your demo video or demo GIF inside the `demo` folder.
+- Automatic timetable-based bell scheduling
+- Manual bell controls for unscheduled events
+- Support for multiple bell and audio events
+- Daily school-period workflow
+- Offline operation
+- Simple operator-friendly interface
+- Windows desktop usage
+- Suitable for schools, institutes and tuition environments
 
-## 📦 Availability
+## Screenshots
 
-This repository is for product showcase and documentation only.
+<p align="center">
+  <img src="screenshots/6b5cc5fbc543fcf8299d65fe7f853adb069b962da5119d6ec1fda52615e86921_600.webp" width="31%" alt="School Bell System screenshot 1" />
+  <img src="screenshots/a4da03cfd20a8e77c63086d99a1fd1ea3fd03438bd6c320cc28550e64f21f539_600.webp" width="31%" alt="School Bell System screenshot 2" />
+  <img src="screenshots/a6f489e66c7582f042f8f17fa633c733fecef4f8aa5a90e4b07307c20a9250ad_600.webp" width="31%" alt="School Bell System screenshot 3" />
+</p>
 
-The full software is available as a licensed product.
+## Designed For
 
-## 💰 Purchase / Contact
+- Primary and secondary schools
+- Private institutes
+- Tuition centers
+- Organizations that need scheduled audio alerts
 
-For pricing, demo, and license purchase, contact:
+## Delivery
 
+The production application is distributed separately as commercial software. This public repository intentionally contains only showcase material and documentation.
+
+## Contact
+
+For a product demo, licensing or software-development inquiries:
+
+**Kavindu Rasanja**  
 Email: [rasanjakavindu54@gmail.com](mailto:rasanjakavindu54@gmail.com)
 
-Whatsapp: +94722033511
+---
+
+> Commercial software showcase. Source code is not included in this public repository.
